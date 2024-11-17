@@ -1,3 +1,4 @@
 *.npz
 /notebook/scnn.ipynb
 /notebook/fonction.py
+/notebook/ckpts-mnist-cnn
